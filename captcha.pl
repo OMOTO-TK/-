@@ -1,5 +1,6 @@
 #!/usr/bin/perl
-
+#автор: Dag Ågren/WAHa.06x36 
+#модифицировал: OMOTO
 use CGI::Carp qw(fatalsToBrowser);
 
 use strict;
